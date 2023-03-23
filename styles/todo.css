@@ -3,8 +3,8 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 300;
     font-size: larger;
-    background-color: rgb(140, 201, 181);
-    color:black;
+    background-color: rgb(91, 194, 160);
+    color:rgb(59, 53, 53);
     display: grid;
     grid: 
         "header header header header" auto
@@ -62,7 +62,7 @@ body {
 
 .tasks {
     grid-area: actives;
-    background-color: lawngreen;
+    background-color: rgb(57, 224, 52);
     border-style: solid;
 }
 
